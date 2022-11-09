@@ -1,0 +1,29 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    font-family: 'Josefin Sans', sans-serif;
+}
+
+h1, h2, h3 {
+    color: #F2983F;
+}
+
+.question {
+    color: #F2983F;
+    font-size: larger;
+}
+
+.map iframe { 
+    grid-column: 2/3;
+    margin: 10% 0;
+    max-height: 100%;
+    max-width: 100%;
+}
+
+#tfive p {
+    font-size: larger;
+}
+
